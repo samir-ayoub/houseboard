@@ -1,0 +1,13 @@
+{
+  "name": "houseboard",
+  "version": "1.0.0",
+  "description": "An intuitive and helpful dashboard to be used by family",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Ayoub",
+  "license": "ISC",
+  "dependencies": {}
+}
